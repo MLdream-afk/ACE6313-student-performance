@@ -15,8 +15,10 @@ Target: Academic performance (grade/category)
 ## Summary of Results
 |Model|R2|RMSE|MAE|
 |---|---|---|---|
-|Linear Regression|0.7403|1.9158|0.7196|
+|Linear Regression|0.7467 |1.8922|0.6664|
 |Decision Tree|0.5572|2.5019|1.4894|
-|Random Forest|0.6794|2.1287|1.0291|
-|SVR|0.7415|1.9116|0.6956|
-|kNN|0.6393|2.2581|1.2190|
+|Random Forest|0.6839|2.1139|1.0050|
+|SVR|0.7477|1.8883|0.6407|
+|kNN|0.6473|2.2329|1.1979|
+
+Best model: SVR (R2 = 0.7477)
